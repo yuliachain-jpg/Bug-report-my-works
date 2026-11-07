@@ -1,11 +1,18 @@
-# QA Bug Reports
+Bug Reports Portfolio( Manual QA )
+Учебное портфолио баг репорты 
+Цель- это показать навык поиска, воспроизведения и чёткого описания дефектов 
 
-Учебные баг-репорты в GitHub Issues.
+### Формат баг-репорта
+- Summary 
+- Environment 
+- Precondition 
+- Steps to reproduse 
+- Expected result 
+- Actual result 
+- Severity
+- Priority 
+- Attachment ( скриншоты) 
 
-Формат: Summary, Environment, Steps to Reproduce, Expected/Actual Result, Severity, Priority, скриншоты.
-
-## Примеры
-- [Android] TapTap Arrow зависает на экране загрузки (ссылка на issue)
-- Неверная дата доставки (ссылка)
-- Не открывается доска Pinterest (ссылка)
-- Нет текста ошибки (ссылка)
+### Список багов 
+1.[ Не открывается доска на Pinterest] ()- Severity: Major, Priority:High
+2.[Неверно отображается дата доставки]()-
