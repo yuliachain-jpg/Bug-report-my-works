@@ -23,3 +23,5 @@ Bug Reports Portfolio( Manual QA )
 3. [Пустые чекбоксыв фильтре категорий IT transition]
 (https://github.com/yuliachain-jpg/Bug-report-my-works/issues/4)- Severity: Major, Priority:High
 
+
+
