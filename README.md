@@ -14,5 +14,6 @@ Bug Reports Portfolio( Manual QA )
 - Attachment ( скриншоты) 
 
 ### Список багов 
-1.[ Не открывается доска на Pinterest] ()- Severity: Major, Priority:High
+1.[ Не открывается доска на Pinterest] (https://github.com/yuliachain-jpg/Bug-report-my-works/issues/1)- Severity: Major, Priority:High
+2.[ Неверно отображается дата доставки]
 2.[Неверно отображается дата доставки]()-
