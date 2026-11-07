@@ -19,4 +19,5 @@ Bug Reports Portfolio( Manual QA )
 2.[Неверно отображается дата доставки](https://github.com/yuliachain-jpg/Bug-report-my-works/issues/2)- Severity: Minor, Priority: Medium 
 
 3. [Пустые чекбоксыв фильтре категорий IT transition]
-(https://github.com/yuliachain-jpg/Bug-report-my-works/issues/4)- Severity: Najor,
+(https://github.com/yuliachain-jpg/Bug-report-my-works/issues/4)- Severity: Major, Priority:High
+
