@@ -1,7 +1,7 @@
 Bug Reports Portfolio( Manual QA )
 Учебное портфолио баг репорты .
 
-Цель- это показать навык поиска, воспроизведения и чёткого описания дефектов 
+Цель - это показать навык поиска, воспроизведения и чёткого описания дефектов 
 
 ### Формат баг-репорта
 - Summary 
@@ -29,6 +29,7 @@ Bug Reports Portfolio( Manual QA )
 
 
 5.[Игра Tap Tap Arrow зависает,на экране загрузки и не запускается]
+(https://github.com/yuliachain-jpg/Bug-report-my-works/issues/5)-Severity:Blocker, Priority:High 
 
 
 
