@@ -22,8 +22,15 @@ Bug Reports Portfolio( Manual QA )
 
 3.[Пустые чекбоксыв фильтре категорий IT transition]
 (https://github.com/yuliachain-jpg/Bug-report-my-works/issues/4)- Severity: Major, Priority:High
-4.[Не отображается 
-https://github.com/yuliachain-jpg/Bug-report-my-works/issues/3
+
+
+4.[Не отображается текст уведомления об ошибке]
+(https://github.com/yuliachain-jpg/Bug-report-my-works/issues/3)-Severity:Minor, Priority:Low
+
+
+5.[Игра Tap Tap Arrow зависает,на экране загрузки и не запускается]
+
+
 
 
 
