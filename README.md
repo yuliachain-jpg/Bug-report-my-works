@@ -32,6 +32,11 @@ Bug Reports Portfolio( Manual QA )
 (https://github.com/yuliachain-jpg/Bug-report-my-works/issues/5)- Severity:Blocker, Priority:High 
 
 
+###Примечание:
+
+Все баги найдены самостоятельно в реальных продуктах/ реальных сайтах в  рамках практики.
+
+
 
 
 
