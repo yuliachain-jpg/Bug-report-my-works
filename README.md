@@ -7,7 +7,7 @@ Bug Reports Portfolio( Manual QA )
 - Summary 
 - Environment 
 - Precondition 
-- Steps to reproduse 
+- Steps to reproduce 
 - Expected result 
 - Actual result 
 - Severity
